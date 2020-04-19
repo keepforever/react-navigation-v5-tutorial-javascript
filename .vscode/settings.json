@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4C0766",
+        "titleBar.activeBackground": "#6A0A8F",
+        "titleBar.activeForeground": "#FDFAFF"
+    },
+    "cSpell.words": [
+        "ionicons"
+    ]
+}
